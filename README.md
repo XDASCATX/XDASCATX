@@ -1,8 +1,8 @@
-<h1 align="center">xDASCATx</h1>
+ <h1 align="center">xDASCATx</h1>
 
 <p align="center">
-  <strong>Systems Engineering · Reverse Engineering · Game Porting</strong><br>
-  <sub>Building things that weren't supposed to run.</sub>
+  <strong>Systems Engineering · Reverse Engineering · Low-Level Development</strong><br>
+  <sub>Rebuilding software from the inside out.</sub>
 </p>
 
 <p align="center">
@@ -12,14 +12,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/static%20recompilation-PPC→ARM64-1F1F1F?style=for-the-badge" alt="Static recompilation">
-  <img src="https://img.shields.io/badge/Horizon-libnx-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="Horizon libnx">
-  <img src="https://img.shields.io/badge/Vulkan-Mesa%20NVK-AC162C?style=for-the-badge&logo=vulkan" alt="Vulkan NVK">
-  <img src="https://img.shields.io/badge/renderer-native-5C2D91?style=for-the-badge" alt="Native renderer">
+  <img src="https://img.shields.io/badge/static%20recompilation-PPC%20%E2%86%92%20ARM64-1F1F1F?style=for-the-badge" alt="Static recompilation">
+  <img src="https://img.shields.io/badge/native%20renderer-Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Native Vulkan renderer">
+  <img src="https://img.shields.io/badge/GPU-Mesa%20NVK-5C2D91?style=for-the-badge" alt="Mesa NVK">
+  <img src="https://img.shields.io/badge/platform-Nintendo%20Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white" alt="Nintendo Switch">
+</p>
+
+<p align="center">
+  <strong>Current Project: DARK SOULS II — Scholar of the First Sin</strong><br>
+  <sub>Xbox 360 → Nintendo Switch · Build v104</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/XDASCATX/DS2_switch"><strong>Explore the project →</strong></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>PowerPC static recompilation · ARM64 code generation · ReXGlue runtime · Horizon libnx · Vulkan rendering · Mesa NVK · GPU optimization</sub>
 </p>
 
 ---
